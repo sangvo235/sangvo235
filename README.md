@@ -14,7 +14,7 @@ Hi there, I am Sang!
 
 Interested yet? Check my out my personl portfolio below & connect with me! 😊
 <br><a target="blank" href="https://sangvo235.github.io/">My Portfolio Website</a><br/>
-<br><a target="blank" href="https://www.linkedin.com/in/sangvo235/">My LinkedIn</a><br/>
+<a target="blank" href="https://www.linkedin.com/in/sangvo235/">My LinkedIn</a>
 
 #### Programming Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
