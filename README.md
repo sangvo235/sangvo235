@@ -12,9 +12,9 @@ Hi there, I am Sang!
 - 🎨 I enjoy painting when I have a whole day off. 
 - 🚀 I also invest in some stocks within the ASX.
 
-Interested yet? Check my out my personl portfolio below & connect with me! 😊
-<br><a target="blank" href="https://sangvo235.github.io/">My Portfolio Website</a><br/>
-<a target="blank" href="https://www.linkedin.com/in/sangvo235/">My LinkedIn</a>
+Interested yet? Connect with me! 😊
+<br><a target="blank" href="https://sangvo235.github.io/">Portfolio Website</a><br/>
+<a target="blank" href="https://www.linkedin.com/in/sangvo235/">LinkedIn</a>
 
 #### Programming Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
