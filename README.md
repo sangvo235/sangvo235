@@ -41,9 +41,6 @@ https://sangvo235.github.io/
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
-## :chart_with_upwards_trend: Github Stats
-<!---
-[![](https://github-readme-stats.vercel.app/api?username=Jattyz)](https://github.com/sangvo235)
---->
+#### 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangvo235&layout=compact)](https://github.com/sangvo235)
   
