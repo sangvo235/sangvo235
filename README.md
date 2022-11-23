@@ -1,12 +1,11 @@
-## Sang is currently busy trying to find the missing ";" 😄
-
 <div align="center">
+  <h1> Sang is currently busy trying to find the missing ";" 😄 </h1>
    <img width="80" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
 </div>
 
 
 <p> Hi there, I am Sang! 
-- 💼 I'm currently working at Deloitte (Melbourne) as a Digital & Transformation Risk Intern.
+<li> - 💼 I'm currently working at Deloitte (Melbourne) as a Digital & Transformation Risk Intern. </li>
 - 🏫 I'm currently studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺. 
 - 🌱 I’m currently learning React.
