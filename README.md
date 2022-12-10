@@ -4,7 +4,7 @@
 </div>
 
 Hi there, I am Sang! 
-- 💼 I'm currently working at Deloitte (Melbourne) as a Digital & Transformation Risk Intern. </li>
+- 💼 I'm currently working at Deloitte (Melbourne) as a Digital & Technology Risk Intern. </li>
 - 🏫 I'm currently studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺. 
 - 🌱 I’m currently learning React.
