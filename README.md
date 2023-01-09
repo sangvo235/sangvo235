@@ -43,5 +43,5 @@ Interested yet? Connect with me! 😊
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
 #### 📊 Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sangvo235&layout=compact)](https://github.com/sangvo235)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangvo235&layout=compact)](https://github.com/sangvo235)
 
