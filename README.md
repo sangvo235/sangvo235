@@ -7,7 +7,7 @@ Hi there, I am Sang!
 - 💼 I'm currently a Software Engineering Intern.
 - 🏫 I'm currently studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently upskilling in React.js.
 - 📚 I'm currently reading Sapiens by Yuval Noah Harari. 
 - 🎨 I enjoy painting when I have a whole day off. 
 - 🚀 I also invest in some stocks within the ASX.
