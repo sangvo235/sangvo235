@@ -40,7 +40,6 @@ Interested yet? Connect with me! 😊
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   
 #### 📊 Github Stats
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sangvo235&layout=compact)](https://github.com/sangvo235)
