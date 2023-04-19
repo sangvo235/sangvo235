@@ -4,7 +4,7 @@
 </div>
 
 Hi there, I am Sang! 
-- 💼 I'm currently a Software Engineer Intern.
+- 💼 I'm currently a Machine Learning Intern.
 - 🏫 I'm currently studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺. 
 - 🌱 I’m currently upskilling in Next.js.
