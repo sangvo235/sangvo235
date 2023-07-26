@@ -12,7 +12,7 @@ Hi there, I am Sang!
 - 🚀 I also invest in stocks within the ASX.
 
 Interested yet? Connect with me! 😊
-<br><a target="blank" href="https://sangvo235.github.io/">Portfolio Website</a><br/>
+<br><a target="blank" href="https://sang-vo.vercel.app">Portfolio Website</a><br/>
 <a target="blank" href="https://www.linkedin.com/in/sangvo235/">LinkedIn</a>
 
 #### 💬 Programming Skills
