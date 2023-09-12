@@ -6,7 +6,7 @@
 Hi there, I am Sang! 
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺. 
-- 🌱 I’m currently upskilling in Next.js.
+- 🌱 I’m currently upskilling in Next.js and AWS.
 - 📚 I'm currently reading Sapiens by Yuval Noah Harari. 
 - 🎨 I enjoy painting when I have a whole day off. 
 - 🚀 I also invest in stocks within the ASX.
