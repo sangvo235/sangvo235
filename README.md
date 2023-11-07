@@ -1,6 +1,6 @@
 <div align="center">
    <h1> Sang is busy trying to find the missing ";" 😄 <h1>
-      ![203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12](https://github.com/sangvo235/sangvo235/assets/97276811/55374ad5-08cb-48ee-8f22-9da7dc4a9eb8)
+      <img width="120" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
 
 </div>
 
