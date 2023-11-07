@@ -5,8 +5,8 @@
 
 Hi there, I am Sang! 
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
+- ✈️ I'm currently on an exchange semester at Technical University of Munich 🇩🇪.
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
-- ✈️ I'm currently on my exchange semester at TUM in Munich, Germany 🇩🇪.
 - 🌱 I’m currently upskilling in JavaScript Frameworks.
 - 📚 I'm currently reading Dune by Frank Herbert. 
 - 🎨 I enjoy painting when I have a whole day off. 
