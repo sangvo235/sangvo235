@@ -1,7 +1,6 @@
 <div align="center">
-   <h1> Sang is busy trying to find the missing ";" 😄 <h1>
+   <h1> Sang is busy trying to find the missing ";" 😄</h1>
       <img width="120" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
-
 </div>
 
 Hi there, I am Sang! 
