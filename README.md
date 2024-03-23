@@ -7,8 +7,8 @@ Hi there, I am Sang!
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
 - 🌱 I’m currently upskilling in JavaScript Frameworks & Data Structures.
-- 💬 I'm currently learning to speak Spanish 🇪🇸.  
-- 📚 I'm currently reading Dune by Frank Herbert. 
+- 💬 I'm currently learning to speak Spanish 🇪🇸.
+- 📚 I'm currently reading Dune by Frank Herbert.
 - 🎨 I enjoy painting when I have a whole day off.
 - 🚀 I also invest in stocks within the ASX.
 
