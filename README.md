@@ -3,7 +3,7 @@
       <img width="120" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
 </div>
 
-Hi there, I am Sang! 
+Hi there, I am Sang!
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
 - 🌱 I’m currently upskilling in JavaScript Frameworks & Data Structures.
