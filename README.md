@@ -62,7 +62,7 @@ Interested yet? Connect with me! 😊
 ![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=fff&style=for-the-badge)
 
 #### 🎨 UI/UX & Design Tools
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
