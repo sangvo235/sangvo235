@@ -1,8 +1,7 @@
 <div align="center">
    <h1>01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001 ![hello](https://github.com/sangvo235/sangvo235/assets/97276811/01edf0b5-7504-4e26-bcd5-51661266ee03)</h1>
-   ![space](https://github.com/sangvo235/sangvo235/assets/97276811/3d0dee8b-f034-42c2-8e1e-0a2f6d581175)
-<!-- <img width="120" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
-</div> -->
+   <div>![space](https://github.com/sangvo235/sangvo235/assets/97276811/3d0dee8b-f034-42c2-8e1e-0a2f6d581175)</div>
+</div>
 
 Hi there, I am Sang!
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
