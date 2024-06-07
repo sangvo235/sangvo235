@@ -1,12 +1,10 @@
 <div align="center">
-   <h1>01001000 01100101 01101100 01101100 01101111 00100000 01010111 01101111 01110010 01101100 01100100 00100001</h1>
-   <img width="120" src="https://user-images.githubusercontent.com/97276811/203482491-cc80066b-6782-428f-b4bf-eb06acaa3f12.gif"/>
-   <img width="120" src="https://github.com/sangvo235/sangvo235/assets/planet.gif" />
-
-   
+   <h1>Hello World, I am Sang!</h1>
+   <img width="120" src="/assets/planet.gif" />
+   <img width="120" src="/assets/hello.gif" />
 </div>
 
-Hi there, I am Sang!
+Some fun facts about me:
 - 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
 - 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript and Java.
