@@ -5,9 +5,9 @@
 </div>
 
 Some fun facts about me:
-- 🏫 I'm studying Master of Information Technology (Software Development) at Swinburne University.
+- 🏫 I'm a recent Master of Information Technology (Software Development) Graduate from Swinburne University of Technology.
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
-- 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript and Java.
+- 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript.
 - 💬 I'm currently learning to speak German 🇩🇪 and Spanish 🇪🇸.
 - 📚 I'm currently reading Dune by Frank Herbert.
 - 🎨 I enjoy painting when I have a whole day off.
