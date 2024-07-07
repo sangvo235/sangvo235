@@ -5,7 +5,7 @@
 </div>
 
 Some fun facts about me:
-- 🏫 I graduated from Swinburne University with a Master of Information Technology (Software Development).
+- 🏫 I recently graduated from Swinburne University with a Master of Information Technology (Software Development).
 - 🏡 I'm from Melbourne, Australia 🇦🇺.
 - 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript.
 - 💬 I'm currently learning to speak German 🇩🇪 and Spanish 🇪🇸.
