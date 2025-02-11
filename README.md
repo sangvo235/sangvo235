@@ -5,13 +5,14 @@
 </div>
 
 Some fun facts about me:
-- 🏫 I recently graduated from Swinburne University with a Master of Information Technology (Software Development).
-- 🏡 I'm from Melbourne, Australia 🇦🇺.
+- 👨‍🎓 I have a Master of Information Technology (Software Development) from Swinburne University of Technology and a Bachelor of Commerce (Finance) from Monash University.
+- 🏡 I'm based in Melbourne, Australia 🇦🇺.
 - 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript.
-- 💬 I'm currently learning to speak German 🇩🇪 and Spanish 🇪🇸.
-- 📚 I'm currently reading Dune by Frank Herbert.
-- 🎨 I enjoy painting when I have a whole day off.
-- 🚀 I also invest in stocks within the ASX.
+- 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
+- 📚 I'm currently reading Orbital by Samantha Harvey.
+- 💬 I can speak English and Vietnamese fluently.
+- 🌏 I enjoy travelling (been to over 20 different countries and 60 different cities since 2020).
+- 🚀 I like to research and invest in stocks within the ASX.
 
 Interested yet? Connect with me! 😊
 <br><a target="blank" href="https://sang-vo.vercel.app">Portfolio Website</a><br/>
