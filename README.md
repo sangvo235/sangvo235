@@ -11,7 +11,7 @@ Some fun facts about me:
 - 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
 - 📚 I'm currently reading Orbital by Samantha Harvey.
 - 💬 I can speak English and Vietnamese fluently.
-- 🌏 I enjoy travelling (been to over 20 different countries and 60 different cities since 2020).
+- 🌏 I enjoy travelling (been to over 20 different countries and 60 different cities since '20).
 - 🚀 I like to research and invest in stocks within the ASX.
 
 Interested yet? Connect with me! 😊
