@@ -5,8 +5,8 @@
 </div>
 
 Some fun facts about me:
-- 👨‍🎓 I have a Master of Information Technology (Software Development) from Swinburne University of Technology and a Bachelor of Commerce (Finance) from Monash University.
 - 🏡 I'm based in Melbourne, Australia 🇦🇺.
+- 👨‍🎓 I'm a Master of Information Technology (Software Development) Graduate from Swinburne University of Technology '24.
 - 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript.
 - 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
 - 📚 I'm currently reading Orbital by Samantha Harvey.
