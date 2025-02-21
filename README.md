@@ -6,7 +6,7 @@
 
 Some fun facts about me:
 - 🏡 I'm based in Melbourne, Australia 🇦🇺.
-- 💼 I'm a Graduate Software Engineer at Commonwealth Bank of Australia.
+- 💼 I'm a Graduate Software Engineer at CBA.
 - 👨‍🎓 I'm a Master of Information Technology (Software Development) Graduate from Swinburne University of Technology '24.
 - 🌱 I’m currently upskilling in Algorithms & Data Structures using JavaScript.
 - 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
