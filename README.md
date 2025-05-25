@@ -10,7 +10,7 @@ Some fun facts about me:
 - 👨‍🎓 I'm a Master of Information Technology (Software Development) Graduate from Swinburne University of Technology '24.
 - 🌱 I’m currently upskilling in C# and Algorithms & Data Structures using JavaScript.
 - 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
-- 📚 I'm currently reading Geometry for Ocelots by Exurb1a.
+- 📚 I'm currently reading Geometry for Ocelots by Exurb1a and Dune Messiah by Frank Herbert.
 - 💬 I can speak English and Vietnamese fluently.
 - 🌏 I enjoy travelling (been to over 20 different countries and 60 different cities since '20).
 - 🚀 I like to research and invest in stocks within the ASX.
