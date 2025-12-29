@@ -7,12 +7,12 @@
 Some fun facts about me:
 - 🏡 I'm based in Melbourne, Australia 🇦🇺.
 - 💼 I'm a Graduate Software Engineer at CBA.
-- 👨‍🎓 I'm a Master of Information Technology (Software Development) Graduate from Swinburne University of Technology '24.
+- 👨‍🎓 I'm a Master of IT (Software Development) Graduate from Swinburne University of Technology '24.
 - 🌱 I’m currently upskilling in Next.js and Algorithms & Data Structures using JavaScript.
-- 📖 I'm currently learning two languages: German 🇩🇪 and Spanish 🇪🇸.
+- 📖 I'm currently learning German 🇩🇪.
 - 📚 I'm currently reading Dune Messiah by Frank Herbert.
 - 💬 I can speak English and Vietnamese fluently.
-- 🌏 I enjoy travelling (been to over 20 different countries and 60 different cities since '20).
+- 🌏 I enjoy travelling (been to over 20 different countries).
 - 🚀 I like to research and invest in stocks within the ASX.
 
 Interested yet? Connect with me! 😊
