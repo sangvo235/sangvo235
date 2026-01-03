@@ -11,7 +11,7 @@ Some fun facts about me:
 - 📜 I have a Bachelor of Commerce (Finance) from Monash University.
 - 🌱 I’m currently upskilling in Next.js and Algorithms & Data Structures using JavaScript.
 - 📖 I'm currently learning German 🇩🇪.
-- 📚 I'm currently reading Geometry for The Poet by Michael Connelly.
+- 📚 I'm currently reading The Poet by Michael Connelly.
 - 💬 I can speak English and Vietnamese fluently.
 - 🌏 I enjoy travelling (been to over 20 different countries).
 - 🚀 I like to research and invest in stocks within the ASX.
