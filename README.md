@@ -9,9 +9,9 @@ Some fun facts about me:
 - 💼 I'm a Software Engineer at CBA.
 - 👨‍🎓 I have a Master of IT (Software Development) from Swinburne University of Technology.
 - 📜 I have a Bachelor of Commerce (Finance) from Monash University.
-- 🌱 I’m currently upskilling in Next.js and Algorithms & Data Structures using JavaScript.
+- 🌱 I’m currently upskilling in C# and completing Algorithms & Data Structures using Python & JavaScript.
 - 📖 I'm currently learning German 🇩🇪.
-- 📚 I'm currently reading Sapiens by Yuval Noah Harari.
+- 📚 I'm currently reading Beyond Good and Evil by Friedrich Nietzsche.
 - 💬 I can speak English and Vietnamese fluently.
 - 🌏 I enjoy travelling (been to over 20 different countries).
 - 🚀 I like to research and invest in stocks within the ASX.
