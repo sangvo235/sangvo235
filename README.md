@@ -35,13 +35,14 @@ Interested yet? Connect with me! 😊
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ------------------
 
 #### 🤖 AI
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-8957E5?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline-00A67E?style=for-the-badge&logo=cline&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi-000000?style=for-the-badge&logo=pi&logoColor=white)
 
 #### 🚥 API
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?style=for-the-badge&logo=bruno&logoColor=black)
