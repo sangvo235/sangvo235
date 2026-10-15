@@ -49,12 +49,6 @@ Interested yet? Connect with me! 😊
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-#### 🔬 CI/CD & DevSecOps
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![TeamCity](https://img.shields.io/badge/teamcity-%23000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/🔍%20SonarQube-4E9BCD?style=for-the-badge)
-
 #### 🔧 CI/CD & Version Control
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,7 +64,7 @@ Interested yet? Connect with me! 😊
 
 #### 🛡️ Code Quality & Security
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/🔍%20SonarQube-4E9BCD?style=for-the-badge)
 
 #### 📂 Databases & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
